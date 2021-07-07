@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronald Weasely</title>
+</head>
+<style>
+    #headding{
+        color: #1687a7;
+    }
+    .text1{
+    
+        text-align: justify;
+       
+    }
+    body{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: #ffffff;
+    }
+    .table{
+        background-color: #fef5ce;
+        border-color: floralwhite;
+    }
+
+</style>
+<body>
+    <h1 id="headding">Ronald Weasely</h1>
+    <hr>
+    <table>
+        <tbody>
+            <tr>
+                <td>
+                    <p class="text1"><b>Ronald Bilius Weasley</b> is a fictional character in J. K. Rowling's Harry Potter fantasy novel series. His first appearance was in the first book of the series, Harry Potter and the Philosopher's Stone, as the best friend of Harry Potter and Hermione Granger. He is a member of the Weasley family, a pure blood family that resides in "The Burrow" outside Ottery St. Catchpole. Being the only member of the three main characters raised in magical society, he also provides insight into the Wizarding World's magical customs and traditions. Along with Harry and Hermione, he is a member of <b> Gryffindor house </b> and is present for most of the action throughout the series.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <table class="table" border="0">
+                    <tr>
+                        <th style="color:whitesmoke; ">CONTENTS</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <ol>
+                                <li>Character development</li>
+                                <li>Appearances</li>
+                                <ul>
+                                    <li>Harry Potter and the Philosopher's Stone</li>
+                                    <li>Harry Potter and the Chamber of Secrets</li>
+                                    <li>Harry Potter and the Prisoner of Azkaban</li>
+                                    <li>Harry Potter and the Goblet of Fire</li>
+                                    <li>Harry Potter and the Order of the Phoenix</li>
+                                    <li>Harry Potter and the Half-Blood Prince</li>
+                                    <li>Harry Potter and the Deathly Hallows</li>
+                                </ul>
+                                <li>Characterisation</li>
+                                <ul>
+                                    <li>Outward appearance</li>
+                                    <li>Personality</li>
+                                    <li>Magical abilities and skills</li>
+                                    <li>Family tree</li>
+                                </ul>
+                                <li>Portrayals</li>
+                                <ul>
+                                    <li>Flim Series</li>
+                                    <li>Theatre Portrayals</li>
+                                </ul>
+                                <li>Reference</li>
+                            </ol>
+                        </td>
+                        <td style="border: 0px; padding-right: 65px;">
+                        <table style="border: 0; margin-left:500px; margin-top:-180px;">
+                            <tr>
+                                <td>
+                                </td>
+                                <td style=" margin-right: -40px; margin-left: 20px; padding-top: 155px;">
+                                    <img src="https://l1s4.campk12web.repl.co/images/Ron_Weasley_poster.jpg" alt="" height="350px" width="300px">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                </td>
+                                <th style="text-align:center; color: rgb(204, 32, 32);">
+                                    Ronald Weasely
+                                </th>
+                            </tr>
+                        
+                        </table>
+                    </td>
+                    </tr>
+                </table>
+                
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <br>
+
+    <h1 style="color: #1687a7  ;">Character development</h1>
+    <hr>
+    <p>According to Rowling, Ron was among the characters she created "the very first day."[1] Ron is inspired by Rowling's best friend Sean Harris (to whom Harry Potter and the Chamber of Secrets is dedicated), but she has clearly stated that she "never set out to describe Sean in Ron, but Ron has a Sean-ish turn of phrase."[2] Like Harris is to Rowling, Ron is "always there" when Harry needs him. Ron fits many of the stereotypes expected of the sidekick; he is often used as comic relief, is loyal to the hero, and lacks much of the talent Harry possesses, at least, early on, in terms of magical power. However, he proves his bravery and magical ability several times, such as by playing 'real wizard's chess' in the first book, entering into the Forbidden Forest with Harry during the second book despite his arachnophobia, producing a full-corpreal Patronus Charm in the fifth book and even, in the seventh book, getting basilisk fangs from the Chamber of Secrets by mimicking Parseltongue without understanding it.</p>
+    <p>Some of Ron's qualities serve as foils to Harry's. Whereas Harry is an orphan with more gold than he needs, Ron comes from a loving but poor family. Many of his possessions are hand-me-downs. Harry is famous but would prefer to avoid the spotlight; Ron, in comparison, is often perceived as a mere lackey and sometimes becomes jealous of the recognition Harry receives. Overshadowed by his many siblings and the fame and achievements of his friends, Ron's inferiority complex and need to prove himself are the main thrusts of his character arc. As the books progress, he matures from a inscecure boy to a competent young man capable of strategy and leadership.</p>
+    <br>
+    <h1 style=" color: #1687a7 ;">Appearances</h1>
+    <hr>
+    <h1>Harry Potter and the Philosopher's Stone</h1>
+    <p>Rowling first introduces Ron with his family in Harry Potter and the Philosopher's Stone. Harry is lost at King's Cross railway station, and the Weasleys guide him through the barrier at Platform 9¾ into the wizarding world. Ron and Harry share a compartment on the Hogwarts Express, and they begin their friendship. Ron is fascinated with the famous Harry, and Harry is fascinated with the ordinary Ron. On the train, they both meet Hermione Granger as well, whom they initially dislike but who later becomes their close friend after they save each other during a dangerous encounter with a mountain troll. Ron and Harry share the same classes throughout the series and generally have similar academic successes and disappointments. Ron plays a vital part in the quest to save the Philosopher's Stone. His strategy at Wizard's Chess allows Hermione and Harry to proceed safely through a dangerous, life-sized animated chess game. During the game, Ron allows his piece to be sacrificed and is subsequently knocked unconscious. At the Leaving Feast, the last dinner of the school year, Albus Dumbledore, Hogwarts's Headmaster, awards Ron fifty House points to Gryffindor for "the best-played game of chess Hogwarts has seen in many years." These last-minute points help support Gryffindor's securing of the House Cup.
+    </p>
+    <br>
+    <br>
+    <br>
+</body>
+</html>
